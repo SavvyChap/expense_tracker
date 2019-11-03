@@ -1,6 +1,6 @@
 # expense_tracker
 
-A basic flutter application to track espenses.
+A basic flutter application to track espenses. This is an app made simply for learning purposes and is not ended for commercial use.
 
 ## Getting Started
 
